@@ -86,13 +86,3 @@ Serial.println(" ");
 mfrc522.PICC_HaltA();
 mfrc522.PCD_StopCrypto1();
 }
-
-
-//OUTPUT
----------------------------------------------------------------
-"" card detected **  
-Card id 9C 0F DC CC  
-Card Sat: 08  
-PICC type Mifare 1kb  
-Name : ?{........}6  
-** End reading **  
